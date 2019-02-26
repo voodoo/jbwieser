@@ -1,0 +1,21 @@
+!!!
+%html
+  %head
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+    %meta{:charset => "utf-8"}/
+    %meta{:content => "ie=edge", "http-equiv" => "x-ua-compatible"}/
+    %meta{:content => "width=device-width, initial-scale=1, shrink-to-fit=no", :name => "viewport"}/
+    / Use the title from a page's frontmatter if it has one
+    %title= current_page.data.title || "JB Wieser"
+    %link{:href => "https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.4/css/bulma.min.css", :rel => "stylesheet"}/
+    %script{:defer => "defer", :src => "https://use.fontawesome.com/releases/v5.3.1/js/all.js"}
+      
+    = stylesheet_link_tag "site"
+    = javascript_include_tag "site"
+  %body
+    = partial 'layouts/nav'
+    .container.content= yield
+-# .columns
+-#   .column.is-one-quarter
+-#     = partial 'layouts/menu'
+-#   .column.is-three-quarters.content      
