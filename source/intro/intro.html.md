@@ -1,28 +1,3 @@
-![JBWieser](images/jb.jpg)
-
-## A 20th Century German Immigrant to Texas
-
-### By Mark B. Wieser
-
-
-Fredericksburg, Texas
-February 1, 2014
-
-
-> Work is the crown of life and brings satisfaction.
-> **James 1:**
-
-
-All rights reserved including rights of reproductions. No part of this book may be used or reproduced in any manner without written permission of the Author, except in the case of brief quotations embodied in critical articles and reviews.
-
-Copyright Pending © 2014
-
-ISBN 978-0-615-97097-
-
-Printed in the United States of America
-
-https://books.google.com/books?id=H-53ngEACAAJ&source=gbs_navlinks_s
-
 # Introduction
 
 I always felt that my father was decidedly different from most fathers, but not because I knew a lot of other fathers from which to make this assessment. I respected his accomplishments not only because of what he did for his family, or because of his determination to succeed, or his tenacity to weather any obstacles, but also because I knew him to be above reproach, absolutely honest, and committed to his beliefs, among them that what one studied and learned cannot be taken from one. He was a visionary and often outspoken but possessed an inane ability to see solutions to problems his peers could never match. He was a thinker and  never one who was afraid to say what he believed even if it meant being scorned by his contemporaries. He refused to compromise his principles or his integrity. I recognized from an early age that one had to be old enough to earn a right to engage in a meaningful conversation with him. He was 52 when I was born. He aged considerably as I grew up in the 1950s. I never really had that meaningful conversation. I was lectured to often, but what I might have been able to contribute to any discourse assuredly did not matter to him. As all children of German fathers, I did as I was told, I listened, and I kept quiet. I had asked a few questions about his life in Germany, but had not yet engaged him in a serious dialog before he died suddenly just short of his 72nd birthday.
@@ -332,8 +307,7 @@ Fredericksburg, Texas – February 1, 2014.
     German at Texas A & M College and took advanced German classes at the University of Texas. I also taught German, something
     that had never crossed my mind at that age.
 
-[^3]: J.B. turned this chess set on a lathe in his hothouse workshop. The chess board he made from a board which at one time had been bolted to some sort of office equipment. 
- These three pieces are all that survived. These and the board are in the possession of M. Wieser, Fredericksburg, Texas.
+[^3]: J.B. turned this chess set on a lathe in his hothouse workshop. The chess board he made from a board which at one time had been bolted to some sort of office equipment.  These three pieces are all that survived. These and the board are in the possession of M. Wieser, Fredericksburg, Texas.
 
 [^4]: **The Hothouse** to our family was a room J.B. had built along the south wall of the garage he had also built on the property that he had purchased on the San Antonio highway. 
     It consisted of walls of nothing, but windows, most of whose panes were broken or missing in all three walls, but if it ever served as a garden hothouse, it did so long before I came into this world. It was basically a shop, cluttered with piles of junk that grew from the dirt floor up to about waist high. One could find anything in them to fix or repair whatever had broken. Searching through them was an adventure that occupied many of my hours as a youth, whether on a rainy afternoon or on a hot summer day. It is very likely where I acquired my joy for antiques. There were early boxed versions of radios, gears and parts from old Model Ts, aluminum Dodge Bros. hub caps, old tire tubes, and pieces of all sizes of lumber. Along the north wall, the same being the south wall of the garage stood a long, high worktable to which a hand grinding stone forsharpening knives and axes was attached. Parts were covered with thick black oil and grease. At the east end a hand operated grinder was attached used for sharpening axes and knives. On the table lay a huge heavy cogged gear wheel which served as J.B.’s anvil. A single tool chest, probably no larger than 12” by 18”, hung over the center of the bench. It contained what bits J.B. used for his brace. On the far west end, a lathe was bolted that was operated by a motor that sat unsecured in a frame secured to the rafters and tethered by pulleys to the lathe. Here J.B. fashioned a chess set of his own design. From one end to the other were scattered tools and additional remnants of old cars. Nothing was thrown away. Even a set of bowling pins and two balls were found among the items stored there. The hothouse and the garage were demolished in 1984.

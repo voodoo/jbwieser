@@ -1,10 +1,16 @@
+# J.B. Wieser and His American Dream
+
+## A 20th Centrury German Immigrant to Texas
+
+* [Cover](intro/cover)
+* [Copyright](intro/copyright)
 * [Introduction](intro/intro)
 * [Family Introduction](intro/family-introduction)
 * [J.B.’s Family Tree](images/tree.png) 
 * [Prologue](intro/prologue)
-* [Chapter I](chapters/1) Germany in the mid-19th Century
-* [Chapter II](chapters/2) Uncle Vincent’s Triumphant Homecoming
-* [Chapter III](chapters/3) J.B.’s Career in the Kaiser’s Reich
+* [Chapter I](chapters/1) Germany in the mid-19th Century**
+* [Chapter II](chapters/2) Uncle Vincent's Triumphant Homecoming
+* [Chapter III](chapters/3) J.B.'s Career in the Kaiser’s Reich
 * 67 Chapter IV To Hell with Germany!
 * 85 Chapter V Welcome to Texas and to Vincent’s Family
 * 111 Chapter VI Finding a German Oasis
