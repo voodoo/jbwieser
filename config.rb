@@ -20,6 +20,10 @@ page '/*.txt', layout: false
 configure :build do
     set :build_dir, 'docs'
 end
+
+activate :relative_assets
+set :relative_links, true
+
 # activate :deploy do |deploy|
 #     deploy.method = :git
 #     deploy.branch = 'gh-pages'
