@@ -8,7 +8,7 @@
 * [Family Introduction](intro/family-introduction)
 * [J.B.’s Family Tree](images/tree.png) 
 * [Prologue](intro/prologue)
-* [Chapter I](chapters/1) Germany in the mid-19th Century**
+* [Chapter I](chapters/1) Germany in the mid-19th Century
 * [Chapter II](chapters/2) Uncle Vincent's Triumphant Homecoming
 * [Chapter III](chapters/3) J.B.'s Career in the Kaiser’s Reich
 * 67 Chapter IV To Hell with Germany!
